@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/TheSpeedX/TBomb"><img src="https://i.ibb.co/F4HBKqm/TBomb.png" alt="TBomb"></a>
+  <a href="https://github.com/TheSpeedX/TBomb"><img src="https://uupload.ir/files/n8wv_jokerhack.png" alt="TBomb"></a>
   <br>
   TBomb v2.0b
   <br>
@@ -156,6 +156,5 @@ The package `toilet` cannot be installed yet. But TBomb does still work.
 
 ## Contact me  
 
-For Queries: [Telegram Group](https://t.me/TBombChat)  
-[Check Out My YouTube Channel](https://www.youtube.com/c/SpeedXTech)
+For Queries: [Telegram Channel ](https://t.me/jokerhacker_channel)  
 
